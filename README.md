@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dahuangggg&rank_icon=github&include_all_commits=true&theme=calm)](https://github-stats-extended.vercel.app/api?username=dahuangggg&rank_icon=github&include_all_commits=true&theme=calm)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dahuangggg&langs_count=4&theme=calm)](https://github-stats-extended.vercel.app/api/top-langs?username=dahuangggg&langs_count=4&theme=calm)
