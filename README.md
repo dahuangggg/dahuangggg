@@ -19,14 +19,14 @@ Here are some ideas to get you started:
   <a href="https://github.com/dahuangggg">
     <img
       height="180"
-      src="https://github-stats-extended.vercel.app/api?username=dahuangggg&rank_icon=github&include_all_commits=true&theme=calm"
+      src="https://github-stats-extended.vercel.app/api?username=dahuangggg&rank_icon=github&include_all_commits=true&theme=transparent"
       alt="dahuangggg's GitHub stats"
     />
   </a>
   <a href="https://github.com/dahuangggg">
     <img
       height="180"
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=dahuangggg&langs_count=4&theme=calm"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=dahuangggg&langs_count=4&theme=transparent"
       alt="dahuangggg's most used languages"
     />
   </a>
