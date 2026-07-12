@@ -15,6 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dahuangggg&rank_icon=github&include_all_commits=true&theme=calm)](https://github-stats-extended.vercel.app/api?username=dahuangggg&rank_icon=github&include_all_commits=true&theme=calm)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dahuangggg&langs_count=4&theme=calm)](https://github-stats-extended.vercel.app/api/top-langs?username=dahuangggg&langs_count=4&theme=calm)
+<p align="center">
+  <a href="https://github.com/dahuangggg">
+    <img
+      height="180"
+      src="https://github-stats-extended.vercel.app/api?username=dahuangggg&rank_icon=github&include_all_commits=true&theme=calm"
+      alt="dahuangggg's GitHub stats"
+    />
+  </a>
+  <a href="https://github.com/dahuangggg">
+    <img
+      height="180"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=dahuangggg&langs_count=4&theme=calm"
+      alt="dahuangggg's most used languages"
+    />
+  </a>
+</p>
