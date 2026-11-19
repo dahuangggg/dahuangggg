@@ -1,19 +1,24 @@
+<p align="center">
+  <a href="#中文">中文</a> · <a href="#english">English</a>
+</p>
+
+<a id="中文"></a>
+
+## 你好 👋
+
+我是 dahuangggg，欢迎来到我的 GitHub 主页。
+
+- 🌐 个人网站：[dahuangggg.github.io](https://dahuangggg.github.io)
+
+<a id="english"></a>
+
 ## Hi there 👋
 
-<!--
-**dahuangggg/dahuangggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm dahuangggg. Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+- 🌐 Personal site: [dahuangggg.github.io](https://dahuangggg.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
 <p align="center">
   <a href="https://github.com/dahuangggg">
